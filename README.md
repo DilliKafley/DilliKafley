@@ -3,7 +3,7 @@
 **
 - 👋 Hi, I’m @DilliKafley
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently Prompt Engineering for Developers(Open AI)
+- 🌱 I’m currently learning Prompt Engineering for Developers(Open AI through API)
 - 💞️ I’m looking to collaborate on Deep learning and Machine Learning
 - 📫 You can reach me out on dillikafley25@gmail.com
 - 😄 Pronouns: ...
